@@ -4,4 +4,4 @@ export function hello(who: string = world): string {
   return `Hello ${who}! `;
 }
 
-console.log('run!!!123')
+console.log('run!!!123');
